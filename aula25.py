@@ -9,3 +9,4 @@ lista = ['Luiz','João', 'Maria', 'José', 'Silva', 'Edurado']
 
 lista = zip(contador, lista)
 print(list(lista))
+ 
