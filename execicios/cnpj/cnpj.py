@@ -21,3 +21,6 @@ Recap.
 543298765432 -> Primeiro digito
 6543298765432 -> Segunro digito
 """
+from lib.lib import *
+
+validaCNPJ('04252011000110')
