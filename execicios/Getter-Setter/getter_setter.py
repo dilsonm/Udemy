@@ -36,3 +36,8 @@ print(p1.nome, p1.preco)
 p2 = produto('CANECA', 'RS15')
 p2.desconto(10)
 print(p1.nome, p2.preco)
+
+p3 = produto('Calça', 150)
+p3.desconto(15)
+print(p3.nome, p3.preco)
+
